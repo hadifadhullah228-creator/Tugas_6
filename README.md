@@ -103,19 +103,28 @@ kemudian menyimpan tanggal dan jam pada file hasil.
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di
 background sebagai berikut :
 
-<img width="1267" height="780" alt="image" src="https://github.com/user-attachments/assets/6f6079f7-448e-4944-a070-64c50c69a55a" />
+<img width="947" height="281" alt="image" src="https://github.com/user-attachments/assets/7f7fd7bd-f5eb-4abf-a56d-d49eef149cfd" />
+
 
 
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program
 tersebut ke background
 
-<img width="800" height="600" alt="5c" src="https://github.com/user-attachments/assets/7c5d89ad-4a64-47bd-b1c5-2b0c879105fc" />
+<img width="697" height="278" alt="image" src="https://github.com/user-attachments/assets/467c3b3a-d215-42e0-a36e-1922f5ae324d" />
+
 
 
 d. Stop program background dengan utilitas kill
 
-<img width="800" height="600" alt="5d" src="https://github.com/user-attachments/assets/69d289c1-175b-45a5-91e7-4e67969414f9" />
+
+<img width="1267" height="770" alt="image" src="https://github.com/user-attachments/assets/35ac7fcd-d5a7-41da-b07c-56605032adcc" />
+
+<img width="1255" height="773" alt="image" src="https://github.com/user-attachments/assets/62e6153f-7bba-4a1c-863b-d4a96ba9399f" />
+
+
+
+
 
 
 
