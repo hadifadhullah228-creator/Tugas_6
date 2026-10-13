@@ -55,6 +55,7 @@ b. Eksperimen hasil PS1 :
 
 
 4. Bash script
+   
 a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
 p1.sh
 #! /bin/bash
@@ -66,13 +67,15 @@ p1.sh
 p2.sh
 #! /bin/bash
 
-<img width="800" height="600" alt="4 a 2" src="https://github.com/user-attachments/assets/e7f69573-940f-48bf-bf6a-1e0b11e1cb79" />
+<img width="1262" height="786" alt="image" src="https://github.com/user-attachments/assets/0749fde7-0fb8-4197-901e-6857d3da370c" />
+
 
 
 p3.sh
 #! /bin/bash
 
-<img width="800" height="600" alt="4 a 3" src="https://github.com/user-attachments/assets/312adaad-cb48-45f1-bf6c-2e9ad48c0aeb" />
+<img width="1267" height="777" alt="image" src="https://github.com/user-attachments/assets/431634d9-9765-4277-8a12-c58570a79783" />
+
 
 
 b. Jalankan script tersebut sebagai berikut :
