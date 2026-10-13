@@ -79,11 +79,14 @@ p3.sh
 
 
 b. Jalankan script tersebut sebagai berikut :
-<img width="800" height="600" alt="4b1" src="https://github.com/user-attachments/assets/daf3eb2f-009f-47ac-a6ae-654c0ef8633a" />
 
-<img width="800" height="600" alt="4b2" src="https://github.com/user-attachments/assets/6c83d474-9807-4e48-a442-9d6616a0363c" />
+<img width="1262" height="791" alt="image" src="https://github.com/user-attachments/assets/90bf97c9-f887-417b-89a2-16316d7c5d1b" />
 
-<img width="800" height="600" alt="42b3" src="https://github.com/user-attachments/assets/917f964f-a8aa-445d-94ca-69f623c95ab6" />
+
+<img width="1263" height="777" alt="image" src="https://github.com/user-attachments/assets/596005bd-1eb5-448d-91b9-59673538f467" />
+
+
+<img width="1255" height="782" alt="image" src="https://github.com/user-attachments/assets/d9e1cc4c-5098-44bd-b0b3-06421050fcba" />
 
 <img width="800" height="600" alt="4b4" src="https://github.com/user-attachments/assets/f3fcecae-5dfb-440b-b707-309c2c799364" />
 
