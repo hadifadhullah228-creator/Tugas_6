@@ -6,13 +6,15 @@ VI. Tugas
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 echo “Profile dari /etc/profile”
 
-<img width="498" height="186" alt="1a" src="https://github.com/user-attachments/assets/38f60c0d-d51d-4dfb-b525-93bd693d246b" />
+<img width="1272" height="795" alt="image" src="https://github.com/user-attachments/assets/966ab2a3-81e6-44e8-b9e8-eaa76dd6af7f" />
+
 
 
 
 b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
 
-<img width="800" height="600" alt="1b" src="https://github.com/user-attachments/assets/0be56189-94e7-4662-915b-d4598770d951" />
+<img width="1307" height="827" alt="image" src="https://github.com/user-attachments/assets/a68f6f8d-1d29-414b-ad6f-5dd55676b19b" />
+
 
 
 
@@ -27,7 +29,8 @@ yang bersangkutan.
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai
 berikut:
 
-<img width="800" height="600" alt="1c" src="https://github.com/user-attachments/assets/73ff237e-eacb-49ee-94a7-2b6b3c01a72c" />
+<img width="912" height="762" alt="image" src="https://github.com/user-attachments/assets/998811e1-23a8-45f0-b0d8-ee7ef63d6d28" />
+
 
 
 2. Prompt String (PS)
@@ -36,12 +39,14 @@ a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export di
 dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal
 oleh semua shell
 
-<img width="800" height="600" alt="2a per" src="https://github.com/user-attachments/assets/985cd7bf-3e1b-498a-ab04-421c8cb81ea1" />
+<img width="1258" height="758" alt="image" src="https://github.com/user-attachments/assets/b136eae8-ce91-4818-a47c-2c715f29fe54" />
+
 
 
 b. Eksperimen hasil PS1 :
 
-<img width="487" height="141" alt="2a" src="https://github.com/user-attachments/assets/1bd89550-9254-4e80-b04a-8d143e4c1bb5" />
+<img width="1277" height="713" alt="image" src="https://github.com/user-attachments/assets/1a627011-4898-4352-bc7e-bd58f60a55dd" />
+
 
 
 3. Logout
