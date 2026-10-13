@@ -1,6 +1,5 @@
 # Tugas-6
 
-VI. Tugas
 1. Eksekusi seluruh profile yang ada :
    
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
@@ -51,7 +50,8 @@ b. Eksperimen hasil PS1 :
 
 3. Logout
 
-<img width="800" height="600" alt="3 tugas 6" src="https://github.com/user-attachments/assets/cc0420a9-808c-48f7-a7d9-7c023bff80de" />
+<img width="1265" height="713" alt="image" src="https://github.com/user-attachments/assets/f25b47bc-9e14-4524-8d1f-727f41e02097" />
+
 
 
 4. Bash script
@@ -94,7 +94,8 @@ kemudian menyimpan tanggal dan jam pada file hasil.
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di
 background sebagai berikut :
 
-<img width="800" height="600" alt="5b" src="https://github.com/user-attachments/assets/d6f69617-eaf3-4b65-99c2-dfb229e76399" />
+<img width="1267" height="780" alt="image" src="https://github.com/user-attachments/assets/6f6079f7-448e-4944-a070-64c50c69a55a" />
+
 
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program
