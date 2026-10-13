@@ -129,15 +129,16 @@ d. Stop program background dengan utilitas kill
 
 
 6. History
+   
 a. Ganti nilai HISTSIZE dari 1000 menjadi 20
 
-<img width="800" height="600" alt="6a1" src="https://github.com/user-attachments/assets/2a427807-571d-438c-8ff2-fc3bcfc869e0" />
-
+<img width="1263" height="777" alt="image" src="https://github.com/user-attachments/assets/5bf610da-6744-456a-a49d-f9da5e53d520" />
 
 b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang
 terakhir dilakukan
 
-<img width="800" height="600" alt="6b" src="https://github.com/user-attachments/assets/9be2fa93-46ab-4b38-a178-ecacbd7dd857" />
+<img width="1073" height="306" alt="image" src="https://github.com/user-attachments/assets/8d28c179-9088-4639-bd0e-2f8c78375d60" />
+
 
 
 c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada
