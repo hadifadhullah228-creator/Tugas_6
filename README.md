@@ -59,7 +59,8 @@ a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
 p1.sh
 #! /bin/bash
 
-<img width="800" height="600" alt="4 a 1" src="https://github.com/user-attachments/assets/0f0660f7-c709-4b40-8f1b-6a5f66f8fa2a" />
+<img width="1243" height="786" alt="image" src="https://github.com/user-attachments/assets/1fd335b9-e54c-4b8a-9a40-82e0eba74ec6" />
+
 
 
 p2.sh
