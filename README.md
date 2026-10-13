@@ -37,6 +37,7 @@ Perbedaan utama antara perintah su mahasiswa dan su - mahasiswa terletak pada ba
 
 
 
+
 2. Prompt String (PS)
    
 a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan
