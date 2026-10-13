@@ -88,14 +88,16 @@ b. Jalankan script tersebut sebagai berikut :
 
 <img width="1255" height="782" alt="image" src="https://github.com/user-attachments/assets/d9e1cc4c-5098-44bd-b0b3-06421050fcba" />
 
-<img width="800" height="600" alt="4b4" src="https://github.com/user-attachments/assets/f3fcecae-5dfb-440b-b707-309c2c799364" />
+
 
 
 5. Jobs
+   
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
 kemudian menyimpan tanggal dan jam pada file hasil.
 
-<img width="800" height="600" alt="5 tugas 6" src="https://github.com/user-attachments/assets/7ff208ae-8337-4880-891f-ccbec82bd376" />
+<img width="1271" height="785" alt="image" src="https://github.com/user-attachments/assets/af21969c-ee2e-4b5c-a587-e9f787e95d2f" />
+
 
 
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di
