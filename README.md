@@ -149,10 +149,11 @@ history bufer
 d. Ulangi instruksi pada history bufer nomor 150
 
 
-<img width="800" height="600" alt="6d" src="https://github.com/user-attachments/assets/727dad04-33fe-49af-9672-a0ef3833bff4" />
+<img width="1001" height="437" alt="image" src="https://github.com/user-attachments/assets/4c68a81f-534d-44f4-8654-2af8d6502ab0" />
 
 
 e. Ulangi instruksi dengan prefix “ls”
 
-<img width="800" height="600" alt="6e" src="https://github.com/user-attachments/assets/d1d302b8-9e79-482d-8d67-22300dfc1c32" />
+<img width="1266" height="307" alt="image" src="https://github.com/user-attachments/assets/05594f37-6cfe-47cf-b95e-05f8f2f9752a" />
+
 
