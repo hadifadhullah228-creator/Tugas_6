@@ -30,6 +30,11 @@ berikut:
 
 <img width="912" height="762" alt="image" src="https://github.com/user-attachments/assets/998811e1-23a8-45f0-b0d8-ee7ef63d6d28" />
 
+Perbedaan utama antara perintah su mahasiswa dan su - mahasiswa terletak pada bagaimana sistem memuat environment (lingkungan kerja) dari user tersebut: 
+•	su mahasiswa (Tanpa tanda -): Perintah ini hanya mengubah identitas kamu menjadi pengguna mahasiswa tanpa memuat ulang environment pengguna tersebut. Variabel sistem dan lokasi direktori aktif kamu akan tetap sama persis seperti milik user sebelumnya (non-login shell). 
+•	su - mahasiswa (Dengan tanda -): Perintah ini menyimulasikan proses login pengguna yang sebenarnya (login shell). Sistem akan memuat seluruh konfigurasi environment bawaan milik mahasiswa (termasuk menjalankan skrip seperti /etc/profile atau ~/.bashrc) dan otomatis memindahkan posisi terminal langsung ke dalam home directory milik pengguna mahasiswa (misalnya /home/mahasiswa). 
+
+
 
 
 2. Prompt String (PS)
