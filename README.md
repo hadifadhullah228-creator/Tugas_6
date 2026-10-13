@@ -144,7 +144,7 @@ terakhir dilakukan
 c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada
 history bufer
 
-<img width="800" height="600" alt="6c" src="https://github.com/user-attachments/assets/d7ec46af-e14d-4e26-b4c6-82ddbd6ecf2f" />
+<img width="752" height="233" alt="image" src="https://github.com/user-attachments/assets/0dc273dc-a993-455d-bec8-01ed17148ad2" />
 
 
 d. Ulangi instruksi pada history bufer nomor 150
